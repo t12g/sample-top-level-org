@@ -1,0 +1,6 @@
+apiVersion: bespin.dev/v1
+kind: Organization
+metadata:
+  name: abc.1bot2.info
+spec:
+  id: 975672035171
